@@ -20,7 +20,7 @@ Projetos e desafios realizados no Stage 3 do Programa Explorer da Rocketseat.
   <img alt="Projeto 5 explorer1" src="./images/preview1.jpg" width="100%">
 </p>
 <p align="center">
-  <img alt="Projeto 5 explorer2" src="./images/preview2.jpg" width="100%">
+  <img alt="Projeto 5 explorer2" src="./images/preview2.jpg" width="25%">
 </p>
 
 ## 🚀 Tecnologias
